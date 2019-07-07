@@ -1,0 +1,3 @@
+# koolrule
+rule
+ni
